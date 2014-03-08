@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Abha/Downloads/apache-wink-1.4/apache-wink-1.4/lib/activation-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Abha/Downloads/apache-wink-1.4/apache-wink-1.4/lib/commons-lang-2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Abha/Downloads/apache-wink-1.4/apache-wink-1.4/lib/jaxb-api-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Abha/Downloads/apache-wink-1.4/apache-wink-1.4/lib/jaxb-impl-2.2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Abha/Downloads/apache-wink-1.4/apache-wink-1.4/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Abha/Downloads/apache-wink-1.4/apache-wink-1.4/lib/slf4j-simple-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Abha/Downloads/apache-wink-1.4/apache-wink-1.4/lib/stax-api-1.0-2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Abha/Downloads/apache-wink-1.4/apache-wink-1.4/lib/geronimo-jaxrs_1.1_spec-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Abha/Downloads/apache-wink-1.4/apache-wink-1.4/dist/wink-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Abha/Downloads/apache-wink-1.4/apache-wink-1.4/dist/wink-client-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Abha/Downloads/apache-wink-1.4/apache-wink-1.4/dist/wink-common-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Abha/Downloads/apache-wink-1.4/apache-wink-1.4/dist/wink-server-1.4.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Apache Wink"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
